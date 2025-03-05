@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "The Secrets of the Universe",
+      "price": "Free",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "title": "The Lost Kingdom",
+      "price": "Free",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 3,
+      "name": "Robert Brown",
+      "title": "Mastering JavaScript",
+      "price": "Free",
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "title": "Cooking Made Easy",
+      "price": "Free",
+      "category": "Cooking",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 5,
+      "name": "Michael Lee",
+      "title": "History of the World",
+      "price": "Free",
+      "category": "History",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Wilson",
+      "title": "The Art of Mindfulness",
+      "price": 13.75,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Martinez",
+      "title": "Beginner's Guide to Python",
+      "price": 16.99,
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"    },
+    {
+      "id": 8,
+      "name": "Olivia Davis",
+      "title": "The Mystery of the Blue Moon",
+      "price": 11.25,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1740671504~exp=1740675104~hmac=d8218cb30a932247f53d0e8e0090dc8a18332e694a9962822d9bf47a681682af&w=900"    },
+    {
+      "id": 9,
+      "name": "David Thomas",
+      "title": "Modern Architecture",
+      "price": 22.50,
+      "category": "Architecture",
+      "image": "https://m.media-amazon.com/images/I/91a9b8+SC6L.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Emma White",
+      "title": "Yoga for Beginners",
+      "price": 8.99,
+      "category": "Health & Fitness",
+      "image": "https://m.media-amazon.com/images/I/91B8pYzESdL.jpg"
+    },
+    {
+      "id": 11,
+      "name": "James Taylor",
+      "title": "Space Exploration",
+      "price": 19.99,
+      "category": "Science",
+      "image": "https://m.media-amazon.com/images/I/71A5l4nKEEL.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Charlotte Harris",
+      "title": "Gourmet Baking",
+      "price": 14.50,
+      "category": "Cooking",
+      "image": "https://m.media-amazon.com/images/I/81gTwYAhU7L.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Benjamin Clark",
+      "title": "Cybersecurity Essentials",
+      "price": 25.99,
+      "category": "Technology",
+      "image": "https://m.media-amazon.com/images/I/71uAI28kJuL.jpg"
+    }
+]
